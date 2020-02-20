@@ -34,3 +34,5 @@ python3 BrutalLogin-v2.py
 pyinstaller --add-data="files/background.jpg:." --onefile BrutalLogin-v2.py
 ```
 
+:octocat: Como contribuir al proyecto
+Todas las contribuciones son bienvenidas! Código, documentación, gráficos o incluso sugerencias de diseño son bienvenidos; usa GitHub al máximo. Envíe solicitudes de extracción, contribuya con tutoriales u otro contenido; lo que tenga que ofrecer, ¡lo agradecería!
