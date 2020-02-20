@@ -166,20 +166,6 @@ def interface():
 
 # PROGRAMA PRINCIPAL
 
-# if __name__ == '__main__':
-
-# 	parser = argparse.ArgumentParser(description="Bot for login in Spotify")
-# 	parser.add_argument('-f', '--file', help="File for accounts", required=True, type=str)
-# 	argv = parser.parse_args()
-
-# 	# Verificar si archivo existe
-
-# 	if os.path.isfile(argv.file):
-# 		file = argv.file
-interface()
-
-
-# 	else:
-# 		print("[\033[0;31mx\033[0;39m] File Not Found!")
-
-# 	sys.exit(0)
+if __name__ == '__main__':
+	interface()
+	sys.exit(0)
