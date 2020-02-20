@@ -34,5 +34,10 @@ python3 BrutalLogin-v2.py
 pyinstaller --add-data="files/background.jpg:." --onefile BrutalLogin-v2.py
 ```
 
-:octocat: Como contribuir al proyecto
+## :octocat: Como contribuir al proyecto
+
 Todas las contribuciones son bienvenidas! Código, documentación, gráficos o incluso sugerencias de diseño son bienvenidos; usa GitHub al máximo. Envíe solicitudes de extracción, contribuya con tutoriales u otro contenido; lo que tenga que ofrecer, ¡lo agradecería!
+
+## Disclaimer ##
+
+Brutal Login está destinado a ser utilizado solo con fines de seguridad legal, y solo debe usarlo para ver el funcionamiento simple de un ransomware en un entorno controlado. Cualquier otro uso no es responsabilidad del desarrollador. En otras palabras, no seas estúpido, no seas un imbécil y utiliza esta herramienta de manera responsable y legal.
