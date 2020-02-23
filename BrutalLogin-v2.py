@@ -137,7 +137,7 @@ def interface():
 
 	gui = tk.Tk()
 
-	image = Image.open("C:\\Users\\hex\\Desktop\\Brutal Login\\Brutal Login\\files\\background.jpg")
+	image = Image.open("files\\background.jpg")
 	photo = ImageTk.PhotoImage(image)
 	background_label = tk.Label(gui, image=photo)
 	background_label.place(x=0, y=0, relwidth=1, relheight=1)
