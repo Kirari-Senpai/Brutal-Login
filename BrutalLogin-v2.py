@@ -168,4 +168,3 @@ def interface():
 
 if __name__ == '__main__':
 	interface()
-	sys.exit(0)
